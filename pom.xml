@@ -19,7 +19,7 @@
         </plugin>
     </plugins>
 </reporting>
-  </dependencies>
+  <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
